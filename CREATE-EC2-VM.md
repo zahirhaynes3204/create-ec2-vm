@@ -1,9 +1,7 @@
-Watch my Loom walkthrough-
+# Create a Virtual Machine on AWS (EC2) — Step‑by‑Step
+Watch walkthrough in this link 
 [
 ](https://www.loom.com/share/b9f12da7aae645c6962a3eb318400071?sid=cd323ab7-c874-4a1e-adac-09c769fbce41)
-
-# Create a Virtual Machine on AWS (EC2) — Step‑by‑Step
-
 Spin up a Windows or Linux virtual machine (VM) on AWS using EC2. This guide is beginner‑friendly and designed for your portfolio/GitHub.
 
 > **What you’ll do:** pick an OS image (AMI), choose an instance type, set up networking & security, create a key pair, launch, connect, and clean up.
