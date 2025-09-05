@@ -1,4 +1,4 @@
-<Insert-Loom-VideoLink-Here>[
+[
 ](https://www.loom.com/share/b9f12da7aae645c6962a3eb318400071?sid=cd323ab7-c874-4a1e-adac-09c769fbce41)
 # Create a Virtual Machine on AWS (EC2) — Step‑by‑Step
 
